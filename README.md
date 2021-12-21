@@ -67,6 +67,12 @@ sudo modprobe -r b44 b43 b43legacy ssb brcmsmac
 sudo modprobe wl
 ```
 
+## for ubuntu...
+
+```bash
+sudo apt install bcmwl-kernel-source
+```
+
 # Thanks to...
 
 - markdown edit
