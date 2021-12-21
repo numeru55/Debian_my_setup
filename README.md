@@ -79,7 +79,11 @@ sudo apt install bcmwl-kernel-source
 https://repositorymd.netlify.app/editor
 
 - install
+
 https://cpoint-lab.co.jp/article/202001/13627/
 
 https://bellbind.tumblr.com/post/45757405213/usb-hdd%E3%81%ABmbrefi%E4%B8%A1%E3%83%96%E3%83%BC%E3%83%88%E5%8F%AF%E8%83%BD%E3%81%AAubuntu%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E4%BD%9C%E3%82%8B%E6%96%B9%E6%B3%95
 
+- Github Desktop
+
+https://github.com/shiftkey/desktop/releases
