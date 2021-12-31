@@ -1,3 +1,5 @@
+openSUSE-Tumbleweed-DVD-x86_64-Snapshot20211228-Media.iso
+
 trying...
 
 # WiFi driver
