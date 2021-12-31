@@ -1,7 +1,7 @@
 Now testing...
 
 
-Wifi Driver
+# Wifi Driver for my mac
 
 https://archived.forum.manjaro.org/t/solved-installation-on-macbook-air-wifi/134405/9
 
@@ -33,3 +33,8 @@ sudo modprobe wl
 sudo pacman -Sy linux510-headers
 sudo pacman -Sy linux54-headers
 ```
+
+# Setup Japanese
+
+https://qiita.com/oioi/items/8835afc5d2db643efeda
+
