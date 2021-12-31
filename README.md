@@ -67,6 +67,10 @@ sudo modprobe -r b44 b43 b43legacy ssb brcmsmac
 sudo modprobe wl
 ```
 
+# install Chrome browser
+
+https://qiita.com/pyon_kiti_jp/items/e6032eb6061a4774aece
+
 ## for ubuntu...
 
 ```bash
