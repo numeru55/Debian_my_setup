@@ -38,3 +38,6 @@ sudo pacman -Sy linux54-headers
 
 https://qiita.com/oioi/items/8835afc5d2db643efeda
 
+
+
+https://www.ticktack.biz/2021/01/17/post-202/
