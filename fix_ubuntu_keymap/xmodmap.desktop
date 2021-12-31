@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=xmodmap -e "keycode 130 = Hiragana"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[ja_JP]=Kana key
+Name=Kana key
+Comment[ja_JP]=
+Comment=

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=xmodmap -e "keycode 131 = Eisu_toggle"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[ja_JP]=Eisu key
+Name=Eisu key
+Comment[ja_JP]=
+Comment=
