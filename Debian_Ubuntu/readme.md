@@ -71,6 +71,8 @@ sudo modprobe wl
 
 https://qiita.com/pyon_kiti_jp/items/e6032eb6061a4774aece
 
+https://zenn.dev/shimtom/articles/55fd2eb3d55c48
+
 ## for ubuntu...
 
 ```bash
