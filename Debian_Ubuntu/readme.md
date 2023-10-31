@@ -73,6 +73,17 @@ https://qiita.com/pyon_kiti_jp/items/e6032eb6061a4774aece
 
 https://zenn.dev/shimtom/articles/55fd2eb3d55c48
 
+```bash
+# GPGキーの追加
+sudo wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmour -o /usr/share/keyrings/google-keyring.gpg
+
+# リポジトリの追加
+sudo sh -c 'echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-keyring.gpg] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+
+# google chromeのインストール
+sudo apt update && sudo apt install -y google-chrome-stable
+```
+
 ## for ubuntu...
 
 ```bash
